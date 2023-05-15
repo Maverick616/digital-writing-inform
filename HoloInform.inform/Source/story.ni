@@ -1,4 +1,4 @@
-"InformPiece" by Cody Anderson
+"HoloInform" by Cody Anderson
 
 Release along with an interpreter.
 
